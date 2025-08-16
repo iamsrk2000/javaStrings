@@ -1,6 +1,7 @@
 import java.util.*;
 public class palindrome1 {
     public static void main(String args[]){
+        int a= 10;
         Scanner sc=new Scanner(System.in);
         String s=sc.nextLine();
         int n=s.length()-1;
@@ -17,3 +18,4 @@ public class palindrome1 {
     }
     
 }
+
